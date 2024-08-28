@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 My name Nathan Vu
+My intended major is Computer Science BS
+Two projects I want to do are to be more profcient in java and be able to code in linux efficiently.
 
 <!--
 **SushiBoiNV/SushiBoiNV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
