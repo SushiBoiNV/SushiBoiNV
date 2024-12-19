@@ -1,9 +1,9 @@
 ## Hi there 👋 My name Nathan Vu
-- 🔭 I’m currently working on ... Trying to graduate college (Second Year)
-- 🌱 I have learned ... Java, Python, Linux, LC3
-- 📫 How to reach me: ... nathanvu1111@gmail.com 
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... I like to play Valorant and Project Zomboid
+- 🔭 I’m currently working on: trying to graduate college (Second Year)
+- 🌱 I have learned Java, Python, Linux, LC3
+- 📫 How to reach me: nathanvu1111@gmail.com 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like to play Valorant and Project Zomboid
 
 <!--
 **SushiBoiNV/SushiBoiNV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
