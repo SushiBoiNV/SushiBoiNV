@@ -1,6 +1,6 @@
 ## Hi there 👋 My name Nathan Vu
-- 🔭 I’m currently working on: trying to graduate college (Second Year)
-- 🌱 I have learned Java, Python, Linux, LC3
+- 🔭 I’m currently working on: trying to graduate college (Third Year)
+- 🌱 I have learned Java, Python, Linux, LC3, C++
 - 📫 How to reach me: nathanvu1111@gmail.com 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to play Valorant and Project Zomboid. I also love playing in Magic the Gathering!
